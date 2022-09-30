@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Parviz. I am 30. I love active rest. Doing sports. I want to enter the world of IT. I am currently learning HTML, CSS, JS, JAVA, REACT, NODE JS and much more..
+### Hi there 👋 My name is Parviz. I am 30. I love active rest. Doing sports. I want to enter the world of IT. I am currently learning HTML, CSS, JS, JAVA, REACT JS, NODE JS and much more..
 
 <!--
 **89113801667/89113801667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
